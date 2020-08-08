@@ -1,0 +1,13 @@
+.header {
+   height: 200px;
+   color: lightslategrey;
+   width: 100px;
+   padding: 30px 20px;
+   margin: 0px;
+}
+
+table {
+    background-color: #cce6ff;
+    width: 250px;
+    text-align: center;
+}
